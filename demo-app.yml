@@ -40,4 +40,4 @@ spec:
     app: demo-app
   type: NodePort
 
-## trigger commit 6
+## trigger commit 7
